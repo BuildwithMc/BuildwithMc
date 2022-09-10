@@ -40,8 +40,8 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ballox-by-Team-Wonder&repo=Ballox-Web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/WhyNotSwitch/Switch-landing-page">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=WhyNotSwitch&repo=Switch-landing-page&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/WhyNotSwitch/Switch-Website-3.0">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=WhyNotSwitch&repo=Switch-Website-3.0&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
