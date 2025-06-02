@@ -15,9 +15,20 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mmerichukwu-anosike-7336941a3/)
 
-Hey there 👋
+👋 Hi, I'm Mmerichukwu Anosike (aka BuildwithMc)
 
-I am Mmerichukwu Anosike. I am an enthusiastic energy researcher, Javascript and business developer and digital marketer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of given tasks and jobs and training in digital marketing, web development and website management all to ensure I deliver the best. Motivated to learn, grow and excel in web development and digital marketing industry.
+🌍 Community Builder | 🧠 DevRel Advocate | 🔗 Web3 Enthusiast
+Passionate about growing inclusive tech communities across Africa, supporting developers, and bridging real-world impact with decentralized technologies.
+
+    🛠️ Leading community & DevRel initiatives for Web3 protocols
+
+    🎙️ Organizer of IRL & virtual hackathons, workshops & learning spaces
+
+    🌱 Empowering young talents through education, collaboration & open source
+
+    ⚡ Building bridges between people, ideas, and products that matter
+
+    Let’s build the future — one block, one dev, one community at a time.
 
 <!-- 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
